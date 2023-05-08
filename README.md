@@ -6,6 +6,6 @@ The source codes of Faster RCNN, Mask RCNN and YOLOv3 can be found in following 
 Faster RCNN: https://github.com/rlirli/tf-keras-frcnn
 Mask RCNN: https://github.com/ahmedfgad/Mask-RCNN-TF2
 YOLOv3: https://github.com/cfotache/pytorch_custom_yolo_training
-The train weights of each model are provided along with the annotation files. The strain tensor dataset used in test are also provided along with their original images. 
+
 
 If you have any questions or comments, please feel free to email: jisikkim@knu.ac.kr or sumanknux@gmail.com
